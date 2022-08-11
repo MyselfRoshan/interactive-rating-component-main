@@ -28,7 +28,9 @@ Users should be able to:
 ![](/screenshots/desktop-design-ratings.png)
 ![](/screenshots/desktop-design-thankyou.png)
 ###`Mobile` Design Preview
-![](/screenshots/mobile-design.png)
+<p align="center">
+<img height="667" width="375" src="/screenshots/mobile-design.png"/>
+  </p>
 
 ### Links
 
