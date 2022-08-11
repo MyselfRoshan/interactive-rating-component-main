@@ -24,9 +24,10 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
-![](/screenshots/mobile-design.png)
+#### `Desktop` Design Preview
+![](/screenshots/desktop-design-ratings.png)
 ![](/screenshots/desktop-design-thankyou.png)
+###`Mobile` Design Preview
 ![](/screenshots/mobile-design.png)
 
 ### Links
