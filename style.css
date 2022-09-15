@@ -16,7 +16,7 @@ body{
 
 .box{
     height: 45rem;
-    width:43rem;
+    width:40rem;
     border-radius: 5%;
     background-color: hsl(216, 12%, 8%);
     display: grid;
